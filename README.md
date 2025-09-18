@@ -1,4 +1,3 @@
-[OchaMapver10_ver1.html](https://github.com/user-attachments/files/22398731/OchaMapver10_ver1.html)
 <!DOCTYPE html>
 <html lang="ja">
 <head>
